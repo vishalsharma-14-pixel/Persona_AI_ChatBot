@@ -3,7 +3,7 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-  "scripts": {
+ "scripts": {
   "dev": "vite dev",
   "build": "vinxi build",
   "start": "vinxi start",
